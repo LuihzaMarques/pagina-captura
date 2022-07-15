@@ -1,0 +1,71 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.content{
+    margin-top: 5%;
+    text-align: center;
+}
+
+.logo{
+	width: 95px;
+    margin-bottom: 20px;	
+
+}
+
+h1{
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+h2{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 20px
+}
+
+h3{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.texto{
+  display: block;
+  width: 80%;
+  outline: none;
+  border: none;
+  padding: 16px;
+  margin: 0 auto 10px auto;
+  border-radius: 6px;
+  font-size: 20px;
+}
+
+.checkbox {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+}
+
+.botao{
+  width: 80%;
+  margin: 30px auto;
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  outline: none;
+  border: none;
+  padding: 15px;
+  font-size: 20px;
+  border-radius: 6px;
+    
+}
